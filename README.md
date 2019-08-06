@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# 迭代历史
+- v1.162     2014-12-11
+    - 名字叫InstaShot
+    - 首页：视频编辑、图片入口、系统录像入口、系统拍照入口
+        - 视频编辑：
+            - 剪切、位置、背景、旋转、翻转
+            - 只能选择单个视频
+            - 保存时选择分辨率
+            - 分享到Instagram快捷入口
+        - 图片编辑：
+            - 位置、背景、旋转、翻转
+            - 只能选择单个图片
+- v1.233     2015-1-29
+    - 视频编辑：
+        - 新增Zoom in/out
+        - 新增音乐（只有一首）
+    - 图片编辑：
+        - 新增模糊背景，分三个层次Light Medium Heavy
+        - 新增滤镜
+    - 支持语言选择
+    - 支持Video Codec选择：H.264或MPEG-4
+    - 保存路径显示和支持跳转
+- v1.251     2015-3-19
 
-You can use the [editor on GitHub](https://github.com/Fiona-M/PA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fiona-M/PA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
